@@ -33,7 +33,7 @@ Any metal plate with standard VESA 100 mm or 75 mm holes will do, but countersun
 Since we want a strong magnetic force in a single direction, cup magnets are ideal for this application.
 
  - [60x13.5x5mm bar-shaped cup magnet 10 pack](https://www.amazon.com/gp/product/B07T4NX3NC/) These are my preferred magnets. A single magnet is enough to hold a device in position on the keyboard tray.
- - [32mm round cup magnet 6 pack](https://www.amazon.com/gp/product/B08VMWZ54T) These are more compact, but you need to use more than one or you risk the device slowly spinning under its own weight.
+ - [32x5mm round cup magnet 6 pack](https://www.amazon.com/gp/product/B08VMWZ54T) These are more compact, but you need to use more than one or you risk the device slowly spinning under its own weight.
 
 
 ### Screws
