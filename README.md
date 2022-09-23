@@ -38,7 +38,7 @@ Since we want a strong magnetic force in a single direction, cup magnets are ide
 
 ### Screws
 
-To attach the NUC mount to the monitor arm I used 3 M3x10 countersunk screws in the punched NUC mounting holes, leaving the hole near my leg empty. The screw heads aren't quite flat, but it's been good enough for a place to stash your trackball. To attach the VESA adapter I used M4x6 screws. in both cases you want screws just long enough to fill the washer and nut without protruding, so it doesn't catch on your leg/clothes.
+To attach the NUC mount to the monitor arm I used 3 M3x10 countersunk screws in the punched NUC mounting holes, leaving the hole near my leg empty. The screw heads aren't quite flat, but it's been good enough for a place to stash your trackball. To attach the VESA adapter I used 2 M4x6 screws. in both cases you want screws just long enough to fill the washer and nut without protruding, so it doesn't catch on your leg/clothes.
 
 For the magnets, you want to use non-magnetic (stainless steel 316 will do) screws if possible. Countersunk screw heads will sink into the magnet, leaving the bottom of the device flat. For both magnet shapes I use M3x12 screws, though the round magnets are large enough for M4.  I have happily used nylon washers and nuts to secure screws without issue, but stainless will work to if you prefer it.
 
