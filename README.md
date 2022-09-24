@@ -54,4 +54,6 @@ For the magnets, you want to use non-magnetic (stainless steel 316 will do) scre
 
 For convenience, I've made several openscad modules that can apply a magnet mount to an existing model (including *.stl*s). My favorite mount places a bar shaped cup magnet in a sturdy casing, nearly flush with the bottom of a model. [Code for both bar and round magnet mounts is in my keyboard repository, here.](https://github.com/wolfwood/tryadactyl/blob/try-1/util.scad#L171-L192)
 
+[The magnetic kidney wrist rest holder can be found here.](https://github.com/wolfwood/tryadactyl/blob/try-1/rest.scad)
+
 I am also working on submitting a PR for a modified bottom plate for the [ploopy classic trackball](https://ploopy.co).
