@@ -47,6 +47,7 @@ For the magnets, you want to use non-magnetic (stainless steel 316 will do) scre
 
 ![vertical keyboard tray with trackball and keyboard magnetically attached](images/ploopy-action-shot.jpg)
 
+![Glove80 on chair](images/glove80-on-chair.jpg)
 
 ## Magnetic Mounts on Peripherals
 
@@ -55,5 +56,8 @@ For the magnets, you want to use non-magnetic (stainless steel 316 will do) scre
 For convenience, I've made several openscad modules that can apply a magnet mount to an existing model (including *.stl*s). My favorite mount places a bar shaped cup magnet in a sturdy casing, nearly flush with the bottom of a model. [Code for both bar and round magnet mounts is in my keyboard repository, here.](https://github.com/wolfwood/tryadactyl/blob/try-1/util.scad#L171-L192)
 
 [The magnetic kidney wrist rest holder can be found here.](https://github.com/wolfwood/tryadactyl/blob/try-1/rest.scad)
+
+![Glove80 mounting bracket](images/glove80-bracket.jpg)
+I've made a mounting bracket for the Glove80, [*.stl* can be found in here](things/glove80.stl) and [the code is also in this repo here](magnet_mounts/glove80.scad).
 
 I am also working on submitting a PR for a modified bottom plate for the [ploopy classic trackball](https://ploopy.co).
