@@ -1,0 +1,3 @@
+[submodule "magnet_mounts/tryadactyl"]
+	path = magnet_mounts/tryadactyl
+	url = https://github.com/wolfwood/tryadactyl.git
