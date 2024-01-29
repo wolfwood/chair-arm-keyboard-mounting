@@ -43,7 +43,8 @@ To attach the NUC mount to the monitor arm I used 3 M3x10 countersunk screws in 
 For the magnets, you want to use non-magnetic (stainless steel 316 will do) screws if possible. Countersunk screw heads will sink into the magnet, leaving the bottom of the device flat. For both magnet shapes I use M3x10 screws, though the round magnets are large enough for M4.  I have happily used nylon washers and nuts to secure screws without issue, but stainless will work too if you prefer it. I believe the correct countersink angle is 90 degrees, but it should be the end of the world if the screws don't quite match this.
 
 #### Low Profile Magnet Mounts
-If you have a particularly tight fit, you can get away with only 1 mm of material above the magnet (I usually use 2 mm) and .5 mm of clearance below the magnet (I usually use 1 mm). This will let you use M3x8 mm screws. However, the increased magnet force will require a metal nut to retain it. with these dimension, when I used a nylon nut the magnet pulled itself acress the clearance gap and stuck flush with the metal plate. This makes repositioning much more difficult.
+If you have a particularly tight fit, you can get away with only 1 mm of material above the magnet (I usually use 2 mm) and .5 mm of clearance below the magnet (I usually use 1 mm). In this configuration, the total printed height of the mount is 7 mm. This will let you use M3x8 mm screws. However, the increased magnetic attraction will require a metal nut to retain it. With these dimensions, when I used a nylon nut the magnet pulled itself acress the clearance gap and stuck flush with the metal plate. This makes repositioning much more difficult.
+
 
 
 ## Action Shots
